@@ -25,7 +25,9 @@ GROUP_ID='group_id Вашей группы'
 python main.py
 ```
 Пример публикации комикса на странице группы ВК:
-![img.png](img.png)
+
+![image](https://user-images.githubusercontent.com/22052468/174835965-566d9a18-dd3b-4aa7-bde6-6695b8e25bca.png)
+
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
